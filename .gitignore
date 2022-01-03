@@ -2,6 +2,10 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+/[Aa]ssets/Challenge 1/
+/[Aa]ssets/Challenge 1.meta
+/[Aa]ssets/Challenge 2/
+/[Aa]ssets/Challenge 2.meta
 /[Aa]ssets/Challenge 3/
 /[Aa]ssets/Challenge 3.meta
 /[Ll]ibrary/
